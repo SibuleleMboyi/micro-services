@@ -1,3 +1,6 @@
 [submodule "limit-service"]
 	path = limit-service
 	url = https://github.com/SibuleleMboyi/limit-service
+[submodule "spring-cloud-config-server"]
+	path = spring-cloud-config-server
+	url = https://github.com/SibuleleMboyi/spring-cloud-config-server
